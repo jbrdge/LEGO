@@ -1,7 +1,7 @@
 # Project: Curated LEGO Inventory Database
 
 ## Tools Used
-MySQL · PHP · JavaScript · HTML · MAMP · phpMyAdmin · MySQL CLI  
+MySQL · PHP · JavaScript · HTML · CSS · MAMP
 
 ---
 
