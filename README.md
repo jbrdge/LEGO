@@ -33,9 +33,12 @@ This project builds a **relational LEGO inventory database** from the [Kaggle LE
 ---
 
 ## Screenshots
+### Multiple pages
 <p><img align="left" src="https://raw.githubusercontent.com/jbrdge/PHP/master/PHP-001.png" width="45%"></p>
 <p><img align="left" src="https://raw.githubusercontent.com/jbrdge/PHP/master/PHP-002.png" width="45%"></p>
 
+### Dropdown menus
+<p><img align="left" src="https://raw.githubusercontent.com/jbrdge/PHP/master/actions.png" width="45%"></p>
 <br clear="both"/>
 
 ### Database Schema
