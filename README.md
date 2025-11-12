@@ -10,7 +10,7 @@
 <br clear="both"/>
 
 ### Database Schema
-<p><img src="https://github.com/jbrdge/LEGO/blob/master/Lego%20DATABASE/LegoDatabase/1599/downloads_schema.png" width="100%"></p>
+<p><img src="https://github.com/jbrdge/LEGO/blob/master/downloads_schema.png" width="100%"></p>
 
 ---
 
