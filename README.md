@@ -1,7 +1,6 @@
 ---
 This project is a an exploratory data analysis of the lego dataset from kaggle.
-
-# First, there is a PHP backend that allows the user to select various parts of the dataset. This is some learning done in web development.
+First, there is a PHP backend that allows the user to select various parts of the dataset. This is some learning done in web development.
 ## Screenshots
 ### Multiple pages
 <p><img src="https://raw.githubusercontent.com/jbrdge/PHP/master/PHP-001.png" width="45%"></p>  
