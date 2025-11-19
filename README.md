@@ -4,8 +4,8 @@ This project is a an exploratory data analysis of the lego dataset from kaggle.
 # First, there is a PHP backend that allows the user to select various parts of the dataset. This is some learning done in web development.
 ## Screenshots
 ### Multiple pages
-<p><img align="left" src="https://raw.githubusercontent.com/jbrdge/PHP/master/PHP-001.png" width="45%"></p>
-<p><img align="left" src="https://raw.githubusercontent.com/jbrdge/PHP/master/PHP-002.png" width="45%"></p>
+<p><img src="https://github.com/jbrdge/LEGO/blob/master/PHP-001.png" width="45%"></p>  
+<p><img src="https://github.com/jbrdge/LEGO/blob/master/PHP-002.png" width="45%"></p>
 
 ### Dropdown menus
 <p><img align="left" src="https://raw.githubusercontent.com/jbrdge/PHP/master/actions.png" width="45%"></p>
